@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/__My Project/Example/My Project Example Scene A.unity
-    guid: c32d0ec56a7a80e468e6f115671378e7
+    path: Assets/__My Project/DDES9903/scenes/Hospital.unity
+    guid: 006e9c05e871df94d9c5058b02fe5a6e
   - enabled: 1
-    path: Assets/__My Project/Example/My Project Example Scene B.unity
-    guid: 623571e0647424e48b43a84af6530dd9
+    path: Assets/__My Project/DDES9903/scenes/Hospital Room.unity
+    guid: 72b7eae1e2d31be4e9a7ad756ad99e69
   - enabled: 1
-    path: Assets/EZPZ Examples/Standalone Example Scenes/01 Item Cycling.unity
-    guid: 7ecc1225d74d4454aad820312b981b7c
+    path: Assets/__My Project/DDES9903/scenes/Hospital/hospital 2.unity
+    guid: 001d4987809ad6d45800accc9f921c6f
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
