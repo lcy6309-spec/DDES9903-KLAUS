@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/__My Project/DDES9903/scenes/Hospital.unity
+    path: Assets/__My Project/DDES9903/scenes/Hospital/Hospital.unity
     guid: 006e9c05e871df94d9c5058b02fe5a6e
   - enabled: 1
-    path: Assets/__My Project/DDES9903/scenes/Hospital Room.unity
+    path: Assets/__My Project/DDES9903/scenes/Hospital/Hospital Room.unity
     guid: 72b7eae1e2d31be4e9a7ad756ad99e69
   - enabled: 1
     path: Assets/__My Project/DDES9903/scenes/Hospital/hospital 2.unity
